@@ -1,16 +1,20 @@
-### Hi there 👋
+### Willsy here (he/him) 👋
 
-<!--
-**mdotwills/mdotwills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a full-time, full-stack software engineer 🤓
+- I see code as a tool to solve meaningful problems 🧑‍💻
+- I love coffee, photography, people and those close to me, and shaking my ass on a dance floor 🕺
 
-Here are some ideas to get you started:
+**My go-to tech stacks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Typescript, React
+- Python, Django
+
+**An aspirations list, of sorts**
+
+One step at a time..
+
+- Travel the world and capture it all on film,
+- Work on building rockets and spacecraft to explore beyond,
+- Focus on scaling solutions to the climate change threat we face,
+- Give back more through positive social change advocacy,
+- Experiment with lighting, visual art voodoo and audio producing
